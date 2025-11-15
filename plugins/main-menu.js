@@ -8,7 +8,7 @@ let totalCommands = Object.values(global.plugins).filter((v) => v.help && v.tags
     
 let txt = `̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮   ̮
 ︶•︶°︶•︶°︶•︶°︶•︶°︶•︶°︶
-> ❀ Hola! @${userId.split('@')[0]}, Soy *${botname}*, Aquí tienes la lista de comandos.
+> Hola! @${userId.split('@')[0]}, Soy *${botname}*, Aquí tienes la lista de comandos.
 
 ╭┈ࠢ͜─ׄ֟፝͜─ׄ͜─ׄ͜╴𐔌 *DOWNLOAD* 𐦯╶͜─ׄ͜─ׄ֟፝͜─ׄ͜─ׄ͜
 > ✿ Comandos de *Descargas* para descargar archivos de varias fuentes.
